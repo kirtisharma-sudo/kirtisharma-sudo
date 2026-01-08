@@ -1,0 +1,11 @@
+# 💫 About Me:
+I'm currently working on building  a strong foundation in DSA and beginner projects to improve my coding skills along with practicing Python and C problems.<br>I'm looking to collaborate on beginner friendly open-source projects, python based projects, tudent tech communities and hackathon teams.<br>I'm looking for help with writing clean and efficient code,understanding DSA concepts deeply and getting started with open-source contibutions.<br>I'm currently learning Python, C/C++ basics, Git and Github and Web fundamentals (HTML, CSS - basics)<br>My journey as first-year IT student. Getting started with coding from scratch. College tech events, competitions and learning resources.<br>I believe consistency beats talent, and I'm showing up every day to get better. I enjoy turning confusion into clarity - one bug at a time.
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kirtisharma-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kirtisharma-sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisharma-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
