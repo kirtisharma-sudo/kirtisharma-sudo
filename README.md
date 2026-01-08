@@ -1,6 +1,12 @@
-# I'm KIRTI SHARMA
-• First year BTech IT student focused on building  a strong foundation in DSA and problem-solving through hands-on projects.<br>• I'm looking to collaborate on beginner friendly open-source projects, python based projects, tudent tech communities and hackathon teams.<br>• I'm looking for help with writing clean and efficient code,understanding DSA concepts deeply and getting started with open-source contibutions.<br>• I'm currently learning Python, C/C++ basics, Git and Github and Web fundamentals (HTML, CSS - basics)<br>My journey as first-year IT student. Getting started with coding from scratch. College tech events, competitions and learning resources.<br>• I believe consistency beats talent, and I'm showing up every day to get better. I enjoy turning confusion into clarity - one bug at a time.
+# Hi, I'm KIRTI SHARMA
 
+🎓 First-year BTech IT student focused on building a strong foundation in DSA and problem-solving through hands-on projects.
+💻 Exploring Python and C/C++ while strengthening core programming concepts
+🌱 Interested in beginner-friendly open-source projects and student tech communities
+🤝 Open to learning-focused collaborations, hackathons, and mentorship
+✨ Passionate about writing clean, efficient code and understanding concepts deeply
+📈 My journey as a first-year IT student began with coding from scratch—college tech events, competitions, and consistent practice shape my learning every day.
+I believe consistency beats talent, and I show up daily to improve — one bug at a time.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
