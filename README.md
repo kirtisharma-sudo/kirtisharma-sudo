@@ -12,7 +12,6 @@
 <p align="center">
 
 <a href="https://github.com/kirtisharma-sudo">
-<img src="https://komarev.com/ghpvc/?username=kirtisharma-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue?style=for-the-badge"/>
@@ -127,43 +126,11 @@ Currently exploring
 ---
 
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirtisharma-sudo&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisharma-sudo&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=kirtisharma-sudo&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirtisharma-sudo&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kirtisharma-sudo&theme=tokyonight&margin-w=10"/>
 
 </p>
 
