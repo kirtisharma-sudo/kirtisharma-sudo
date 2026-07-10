@@ -1,17 +1,199 @@
-# Hi, I'm KIRTI SHARMA
+<!-- Animated Typing -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Kirti+Sharma;AI+Developer+%7C+Full+Stack+Developer;Google+AI+Studio+%7C+Gemini+Developer;Open+Source+Contributor;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+</p>
 
-🎓 First-year BTech IT student focused on building a strong foundation in DSA and problem-solving through hands-on projects.<br>
-💻 Exploring Python and C/C++ while strengthening core programming concepts.<br>
-🌱 Interested in beginner-friendly open-source projects and student tech communities.<br>
-🤝 Open to learning-focused collaborations, hackathons, and mentorship.<br>
-✨ Passionate about writing clean, efficient code and understanding concepts deeply.<br>
-📈 My journey as a first-year IT student began with coding from scratch - college tech events, competitions, and consistent practice shape my learning every day.<br>
-I believe consistency beats talent, and I show up daily to improve - one bug at a time.<br>
+<h1 align="center">Hi, I'm Kirti Sharma</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kirtisharma-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kirtisharma-sudo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisharma-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+ AI Developer • Full Stack Developer • Open Source Contributor
+</h3>
 
+<p align="center">
+
+<a href="https://github.com/kirtisharma-sudo">
+<img src="https://komarev.com/ghpvc/?username=kirtisharma-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# About Me
+
+B.Tech Information Technology Student
+
+Passionate about Artificial Intelligence, Full Stack Development & Open Source
+
+Currently exploring
+
+- Agentic AI
+- Google Gemini
+- React
+- Node.js
+- Machine Learning
+
+🏆 Google DeepMind × Kaggle Hackathon Participant
+
+🌍 GSSoC Contributor
+
+💡 I enjoy building applications that solve real-world problems.
+
+---
+
+# 🚀 Current Focus
+
+- Intelligent Email Automation
+- AI for Education
+- AI in Astronomy
+- Full Stack Development
+- Data Science & Machine Learning
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+- Google AI Studio
+- Gemini
+- Pandas
+- NumPy
+- Scikit-learn
+- Kaggle
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+
+</p>
+
+---
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirtisharma-sudo&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisharma-sudo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kirtisharma-sudo&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirtisharma-sudo&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kirtisharma-sudo&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kirtisharma-sudo">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kirti-sharma-8818a3382">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+> *"The best way to predict the future is to build it."* 🚀
+
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider starring my repositories.
+
+</p>
